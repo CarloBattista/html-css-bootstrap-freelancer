@@ -8,6 +8,8 @@
     flex-grow: 0;
 }
 
+/* Background */
+
 .bg_dark_custom{
     background-color: #2C3E50 !important;
 }
@@ -23,6 +25,14 @@
 .bg-body-tertiary{
     background-color: #2C3E50 !important;
 }
+
+/* Color */
+
+.color_dark_custom{
+    color: #2C3E50 !important;
+}
+
+/* Custom */
 
 .navbar-toggler{
     background-color: rgba(255, 255, 255, 1);
