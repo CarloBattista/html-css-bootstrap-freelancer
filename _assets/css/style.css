@@ -31,6 +31,10 @@
     color: #2C3E50 !important;
 }
 
+.color_light_green_custom{
+    color: #1ABC9C !important;
+}
+
 /* Custom */
 
 .navbar-toggler{
@@ -48,6 +52,16 @@
     border-radius: 2px;
 }
 
+.box_social_icon{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.max-w-custom{
+    max-width: 1000px;
+}
+
 /* Input */
 
 .input,
@@ -57,4 +71,10 @@
     outline: none;
     padding: 10px 0;
     border-bottom: 1px solid #2c3e506e;
+}
+
+@media only screen and (max-width: 500px){
+    .max-w-custom{
+        max-width: 400px;
+    }
 }
