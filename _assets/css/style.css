@@ -9,7 +9,6 @@
 }
 
 /* Background */
-
 .bg_dark_custom{
     background-color: #2C3E50 !important;
 }
@@ -47,5 +46,4 @@
     width: 10vw;
     height: 2px;
     border-radius: 2px;
-    background-color: #fff;
 }
