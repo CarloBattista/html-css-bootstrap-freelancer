@@ -1,0 +1,30 @@
+* {
+    list-style: none;
+    list-style-type: none;
+    text-decoration: none !important;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.bg_dark_custom{
+    background-color: #2C3E50 !important;
+}
+
+.bg_light_custom{
+    background-color: #3A546D !important;
+}
+
+.bg_light_green_custom{
+    background-color: #1ABC9C !important;
+}
+
+.bg-body-tertiary{
+    background-color: #2C3E50 !important;
+}
+
+.navbar-toggler{
+    background-color: rgba(255, 255, 255, 1);
+    color: #fff;
+}
